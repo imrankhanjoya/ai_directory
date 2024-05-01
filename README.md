@@ -8,4 +8,5 @@ So, don't wait any longer. Share your top AI tools with us and let's create a vi
 https://thatsmy.ai/
 # Image Generation
 https://thatsmy.ai/image-generation
+# Coding
 https://thatsmy.ai/coding
