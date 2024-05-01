@@ -1,1 +1,3 @@
-# ai_directory
+# AI directory
+
+https://thatsmy.ai/
