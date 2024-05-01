@@ -10,3 +10,5 @@ https://thatsmy.ai/
 https://thatsmy.ai/image-generation
 # Coding
 https://thatsmy.ai/coding
+# Chatting
+https://thatsmy.ai/chatting
