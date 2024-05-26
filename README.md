@@ -14,5 +14,5 @@ https://thatsmy.ai/coding
 https://thatsmy.ai/chatting
 # Avatars
 https://thatsmy.ai/avatars
-#ThatsMyAI
+# ThatsMyAI
 https://thatsmy.ai
